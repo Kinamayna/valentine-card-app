@@ -369,7 +369,7 @@ export default function ValentinePage() {
                   animate={{ backgroundPosition: ["0% 50%", "100% 50%", "0% 50%"] }}
                   transition={{ duration: 4, repeat: Infinity }}
                 >
-                  Will you be my Valentine?
+                  Will you be my Date?
                 </motion.h1>
 
                 <p className="text-rose-200/50 text-sm font-light tracking-wider mb-8">
